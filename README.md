@@ -16,3 +16,5 @@ In this lab, the job that you will run outlines the faces in the image using a s
 
 # Demo
 To see a representation of the demo and the output click the link below:
+
+https://www.youtube.com/watch?v=QkwDK0gVTSc
